@@ -5,6 +5,6 @@ desarrollando titulado
 isométrico de
 construcción de bases, y
 de Markus viendo
-lolniminer, un juego de
+Infiniminer, un juego de
 minería basado en
 bloques.
